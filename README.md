@@ -35,4 +35,4 @@ Languages and Tools:
 
 </p>
 
-<img src="https://github.com/turgutergovan/turgutergovan/blob/main/gif1.gif" >
+<img src="https://github.com/turgutergovan/turgutergovan/blob/main/gif2.gif" >
