@@ -21,6 +21,15 @@ Connect with me:
 
 Languages and Tools:
 <p>
-<img src="https://user-images.githubusercontent.com/95032560/162474802-e81a0bf9-c1e3-418c-b0f5-bd9e36ecfa51.png
-" width="40px">
+<img src="https://github.com/turgutergovan/turgutergovan/blob/main/vscode.png" width="50px">
+<img src="https://github.com/turgutergovan/turgutergovan/blob/main/visualstudio.png" width="50px">
+<img src="https://user-images.githubusercontent.com/95032560/162477808-3c233c54-34e3-4568-bf06-f98bc34ff996.png" width="50px">
+<img src="https://user-images.githubusercontent.com/95032560/162478229-fe3eb794-9db8-4c6e-a454-90d208a91863.png" width="50px">
+<img src="https://user-images.githubusercontent.com/95032560/162478379-8b1e8a00-728d-40a7-bddb-6212dc07c4d0.png" width="50px">
+<img src="https://user-images.githubusercontent.com/95032560/162478571-8624ac7d-56c1-438a-8ce0-bde7516b4725.png" width="50px">
+<img src="https://github.com/turgutergovan/turgutergovan/blob/main/sass.png" width="50px">
+<img src="https://user-images.githubusercontent.com/95032560/162479779-fd76b457-404e-4215-9978-95a6be200cbd.png" width="50px">
+<img src="https://user-images.githubusercontent.com/95032560/162480010-0608ce6f-f894-4d7f-b90c-6f3ad129f0a1.png" width="50px">
+<img src="https://github.com/turgutergovan/turgutergovan/blob/main/react.png" width="50px">
+
 </p>
