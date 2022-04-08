@@ -1,13 +1,14 @@
 Hi there <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="25px" data-canonical-src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="max-width: 100%;">
 
 
-- 🔭 I’m currently working on something cool <g-emoji class="g-emoji" alias="wink" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f609.png">😉</g-emoji>
-- 🌱 I’m currently learning everything <g-emoji class="g-emoji" alias="rofl" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f923.png">🤣</g-emoji>
+- 🔭 I’m currently working on something cool <img src="https://user-images.githubusercontent.com/95032560/162527684-c27a3e20-3806-41ae-b3eb-37c90320d040.png" width="40px">
 
-- 🥅 2022 Goals: Learn more languages <img src="https://user-images.githubusercontent.com/95032560/162460501-1be49040-6ed7-4a78-972e-61a4067a2580.png" width="30px">
+- 🌱 I’m currently learning everything <img src="https://user-images.githubusercontent.com/95032560/162460501-1be49040-6ed7-4a78-972e-61a4067a2580.png" width="40px">
+
+- 🥅 2022 Goals: Learn more languages <img src="https://user-images.githubusercontent.com/95032560/162525205-3cf1349b-c614-400f-9546-9077aa6a31c1.png" width="40px">
 
 
-- ⚡ Fun fact: I like taking photos and I like to play games on the computer <img src="https://user-images.githubusercontent.com/95032560/162464457-7928d29a-af8f-4632-822e-fa0dfb451ee1.png" width="30px">
+- ⚡ Fun fact: I like taking photos and I like to play games on the computer <img src="https://user-images.githubusercontent.com/95032560/162464457-7928d29a-af8f-4632-822e-fa0dfb451ee1.png" width="40px">
 
 Connect with me:
 
@@ -33,3 +34,5 @@ Languages and Tools:
 <img src="https://github.com/turgutergovan/turgutergovan/blob/main/react.png" width="50px">
 
 </p>
+
+<img src="https://github.com/turgutergovan/turgutergovan/blob/main/gif1.gif" >
