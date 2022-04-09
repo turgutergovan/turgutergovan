@@ -13,7 +13,7 @@ Hi there <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44e
 Connect with me:
 
 <p>
-<a href="turgutergovan.com" rel="nofollow"><img src="https://user-images.githubusercontent.com/95032560/162470101-233724a3-e6d7-46f7-a989-908998d4ff18.png" width="40px"></a>
+<a href="https://turgutergovan.com/" rel="nofollow"><img src="https://user-images.githubusercontent.com/95032560/162470101-233724a3-e6d7-46f7-a989-908998d4ff18.png" width="40px"></a>
 <a href="https://www.linkedin.com/in/turgutergovan/" rel="nofollow"><img src="https://user-images.githubusercontent.com/95032560/162470804-8909f090-7f5e-4543-b670-233f66a9b566.png" width="40px"></a>
  <a href="https://www.facebook.com/Turgutergovan" rel="nofollow"><img src="https://user-images.githubusercontent.com/95032560/162471638-d716d37b-18d0-4844-89b9-532e7c6835e6.png" width="40px"></a> 
  <a href="https://www.instagram.com/turgutergovan/" rel="nofollow"><img src="https://user-images.githubusercontent.com/95032560/162472196-d373861e-ea09-4e6c-8c2c-0145722977be.png" width="40px"></a> 
